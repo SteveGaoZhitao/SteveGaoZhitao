@@ -6,7 +6,7 @@
 1. solving real problem in manufacturing area with data-driving methods
 1. Digital Transformation in manufacturing
 1. Industrial Internet/IoT Infrastructure and Platform
-1. 
+1. Full-stack data science including data engineering, MLOps, statistical analysis, business analysis etc.
 
 
 
